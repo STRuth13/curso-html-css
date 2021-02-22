@@ -140,7 +140,6 @@ p {
   background: var(--white30);
   display: inline-block;*/
 blockquote {
-  border: 1px solid red;
   margin-block-start: 80px;
   margin-inline-end: 63px;
   background-color: var(--white10);
