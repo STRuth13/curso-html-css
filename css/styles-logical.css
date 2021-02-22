@@ -40,10 +40,7 @@ body {
 a {
   color: var(--white30);
 }
-.header {
-  /*position: sticky;
-  inset-block-start: -45px;*/
-}
+
 .header-content {
   /*position: relative;
   inset-block-start: 65px;*/
@@ -76,9 +73,6 @@ header a:hover {
 }
 nav details summary {
   font-weight: bold;
-}
-h1, h2, h3 {
-  /*font-weight: normal;*/
 }
 h1 {
   font-size: 40px;
@@ -145,7 +139,6 @@ p {
   height: 4px;
   background: var(--white30);
   display: inline-block;*/
-}
 blockquote {
   border: 1px solid red;
   margin-block-start: 80px;
@@ -166,10 +159,7 @@ blockquote p {
 .main hr {
   display: none;
 }
-.main {
-  /*border: 1px solid red;*/
 
-}
 .wrapper {
   /*border: 1px solid yellow;*/
   max-inline-size: 902px;
@@ -181,9 +171,7 @@ blockquote p {
   /*border: 1px solid blue;*/
   padding-inline: 16px;
 }
-.slider {
-  /*border: 1px solid red;*/
-}
+
 .slider-container {
   /*border: 1px solid orange;
   block-size: 100px;*/
